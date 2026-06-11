@@ -40,10 +40,6 @@ I enjoy shooting film photography and working with vintage camera equipment.
 - iOS app development
 - Better PCB design practices
 
-## 📫 Contact
-
-Feel free to explore my repositories and projects.
-
 ---
 
 *"Stay hungry. Stay foolish."* — Steve Jobs
