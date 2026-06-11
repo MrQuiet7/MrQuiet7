@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Hossein 👋
 
-<!--
-**MrQuiet7/MrQuiet7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a maker, photographer, and engineering enthusiast who enjoys building things that combine hardware, software, and design.
 
-Here are some ideas to get you started:
+## 🔧 Things I Work With
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Electronics & Embedded Systems
+- Arduino & ESP8266 Projects
+- PCB Design
+- 3D Modeling (Fusion 360 & Blender)
+- 3D Printing
+- DIY Hardware Projects
+- Swift & iOS Development
+
+## 📂 Current Interests
+
+- Custom mechanical and electronic projects
+- Audio equipment and speaker design
+- Analog photography
+- Product design and prototyping
+- Open-source hardware
+
+## 📸 Photography
+
+I enjoy shooting film photography and working with vintage camera equipment.
+
+## 🛠 Favorite Tools
+
+- Fusion 360
+- Blender
+- KiCad
+- Arduino IDE
+- VS Code
+- Git
+
+## 🌱 Currently Learning
+
+- Advanced CAD workflows
+- Embedded systems design
+- iOS app development
+- Better PCB design practices
+
+## 📫 Contact
+
+Feel free to explore my repositories and projects.
+
+---
+
+*"Stay hungry. Stay foolish."* — Steve Jobs
