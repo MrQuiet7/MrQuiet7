@@ -5,7 +5,7 @@ I'm a maker, photographer, and engineering enthusiast who enjoys building things
 ## 🔧 Things I Work With
 
 - Electronics & Embedded Systems
-- Arduino & ESP8266 Projects
+- Arduino & ESP Projects
 - PCB Design
 - 3D Modeling (Fusion 360 & Blender)
 - 3D Printing
