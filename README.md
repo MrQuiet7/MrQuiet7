@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/木漏れ日1.png" alt="木漏れ日" width="100%" />
+  <img src="assets/木漏れ日.png" alt="木漏れ日" width="100%" />
 </p>
 
 
