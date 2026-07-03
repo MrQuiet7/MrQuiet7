@@ -38,6 +38,9 @@ I enjoy shooting film photography and working with vintage camera equipment.
 - Arduino IDE
 - VS Code
 - Git
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino,blender,git,vscode,swift,apple" />
+</p>
 
 ## 🌱 Currently Learning
 
