@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Banner" width="100%" />
+</p>
+
+
 # Hi, I'm Hossein 👋
 
 I'm a maker, photographer, and engineering enthusiast who enjoys building things that combine hardware, software, and design.
