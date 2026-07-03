@@ -37,9 +37,9 @@ I enjoy shooting film photography and working with vintage camera equipment.
 - KiCad
 - Arduino IDE
 - VS Code
-- Git
+- Github
 <p>
-  <img src="https://skillicons.dev/icons?i=arduino,blender,git,vscode,swift,apple" />
+  <img src="https://skillicons.dev/icons?i=arduino,blender,kicad,github,vscode,swift,apple" />
 </p>
 
 ## 🌱 Currently Learning
