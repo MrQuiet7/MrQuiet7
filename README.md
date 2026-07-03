@@ -53,7 +53,7 @@ I enjoy shooting film photography and working with vintage camera equipment.
 
 ## 📫 Contact Me
 
- [![Telegram](https://img.shields.io/badge/telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/TheMrQuiet)
+ [![Telegram](https://img.shields.io/badge/telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/TheMrQuiet)
  [![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@hosinstudio)
  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hosinsharifi477@gmail.com)
 ---
