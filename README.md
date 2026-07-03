@@ -55,7 +55,7 @@ I enjoy shooting film photography and working with vintage camera equipment.
 
 <p>
   <a href="https://t.me/your_username">
-    <img src="https://img.shields.io/badge/telegram-26A5E4?style=flat&logo=telegram&logoColor=white" height="36">
+    <img src="https://img.shields.io/badge/telegram-26A5E4?style=flat&logo=telegram&logoColor=white" height="40">
   </a>
   <a href="https://youtube.com/@your_channel">
     <img src="https://img.shields.io/badge/youtube-FF0000?style=flat&logo=youtube&logoColor=white" height="32">
