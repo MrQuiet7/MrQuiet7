@@ -55,13 +55,13 @@ I enjoy shooting film photography and working with vintage camera equipment.
 
 <p>
   <a href="https://t.me/your_username">
-    <img src="https://img.shields.io/badge/telegram-26A5E4?style=flat&logo=telegram&logoColor=white" height="28">
+    <img src="https://img.shields.io/badge/telegram-26A5E4?style=flat&logo=telegram&logoColor=white" height="36">
   </a>
   <a href="https://youtube.com/@your_channel">
-    <img src="https://img.shields.io/badge/youtube-FF0000?style=flat&logo=youtube&logoColor=white" height="28">
+    <img src="https://img.shields.io/badge/youtube-FF0000?style=flat&logo=youtube&logoColor=white" height="32">
   </a>
   <a href="mailto:hosseinsharifi747@gmail.com">
-    <img src="https://img.shields.io/badge/email-EA4335?style=flat&logo=gmail&logoColor=white" height="28">
+    <img src="https://img.shields.io/badge/email-EA4335?style=flat&logo=gmail&logoColor=white" height="34">
   </a>
 </p>
 ---
