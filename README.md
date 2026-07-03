@@ -6,6 +6,7 @@
 # Hi, I'm Hossein 👋
 
 I'm a maker, photographer, and engineering enthusiast who enjoys building things that combine hardware, software, and design.
+I build things… and I appreciate good design.
 
 ## 🔧 Things I Work With
 
