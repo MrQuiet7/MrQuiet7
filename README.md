@@ -55,7 +55,7 @@ I enjoy shooting film photography and working with vintage camera equipment.
 
  [![Telegram](https://img.shields.io/badge/Telegram-181717?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TheMrQuiet)
  [![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@hosinstudio)
- [![Email](https://img.shields.io/badge/hossein@example.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hossein@example.com)
+ [![Email](https://img.shields.io/badge/hossein@example.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hosinsharifi477@gmail.com)
 ---
 
 *"Stay hungry. Stay foolish."* — Steve Jobs
