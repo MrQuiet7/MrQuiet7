@@ -50,6 +50,7 @@ I enjoy shooting film photography and working with vintage camera equipment.
 - Embedded systems design
 - iOS app development
 - Better PCB design practices
+- Designing and developing websites
 
 ## 📫 Contact Me
 
