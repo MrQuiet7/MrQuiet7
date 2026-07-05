@@ -57,6 +57,36 @@ I enjoy shooting film photography and working with vintage camera equipment.
  [![Telegram](https://img.shields.io/badge/telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/TheMrQuiet)
  [![YouTube](https://img.shields.io/badge/youtube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@hosinstudio)
  [![Email](https://img.shields.io/badge/email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:hosinsharifi477@gmail.com)
+
+
+ <p align="center">
+  <a href="https://t.me/yourusername">
+    <img src="https://skillicons.dev/icons?i=telegram" height="40"/>
+  </a>
+  <a href="https://youtube.com/@yourchannel">
+    <img src="https://skillicons.dev/icons?i=youtube" height="40"/>
+  </a>
+  <a href="mailto:your@email.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  </a>
+</p>
+
+
+<a href="https://t.me/yourusername">
+  <img src="https://skillicons.dev/icons?i=telegram" height="38" />
+</a>
+
+<a href="https://youtube.com/@yourchannel">
+  <img src="https://skillicons.dev/icons?i=youtube" height="38" />
+</a>
+
+<a href="mailto:your@email.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="38" />
+</a>
+
+<a href="https://github.com/MrQuiet7">
+  <img src="https://skillicons.dev/icons?i=github" height="38" />
+</a>
 ---
 
 *"Stay hungry. Stay foolish."* — Steve Jobs
