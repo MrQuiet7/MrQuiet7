@@ -72,21 +72,7 @@ I enjoy shooting film photography and working with vintage camera equipment.
 </p>
 
 
-<a href="https://t.me/yourusername">
-  <img src="https://skillicons.dev/icons?i=telegram" height="38" />
-</a>
 
-<a href="https://youtube.com/@yourchannel">
-  <img src="https://skillicons.dev/icons?i=youtube" height="38" />
-</a>
-
-<a href="mailto:your@email.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="38" />
-</a>
-
-<a href="https://github.com/MrQuiet7">
-  <img src="https://skillicons.dev/icons?i=github" height="38" />
-</a>
 ---
 
 *"Stay hungry. Stay foolish."* — Steve Jobs
