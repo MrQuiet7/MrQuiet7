@@ -41,7 +41,7 @@ I enjoy shooting film photography and working with vintage camera equipment.
 - Github
   
 <p>
-  <img src="[https://skillicons.dev/icons?i=](https://skills.syvixor.com/api/icons?i=kicad)arduino,blender,github,vscode,swift,apple" />
+  <img src="https://skills.syvixor.com/api/icons?i=kicad,arduino,blender,github,vscode,swift,apple" />
 </p>
 
 ## 🌱 Currently Learning
