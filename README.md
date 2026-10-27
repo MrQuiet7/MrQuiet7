@@ -30,6 +30,7 @@ I build things… and I appreciate good design.
 
 I enjoy shooting film photography and working with vintage camera equipment.
 
+### Current Gears:
 ## 🛠 Favorite Tools
 
 - Fusion 360
