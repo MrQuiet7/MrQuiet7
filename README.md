@@ -31,6 +31,10 @@ I build things… and I appreciate good design.
 I enjoy shooting film photography and working with vintage camera equipment.
 
 ### Current Gears:
+
+- Nikon FM2
+- Nikon nikkor 50mm f1.4 ai
+- Vivitar series 1 70-210mm f3.5
 ## 🛠 Favorite Tools
 
 - Fusion 360
